@@ -1,7 +1,9 @@
-package com.example.jp.meco300.nfcfortune;
+package jp.meco300.nfcfortune;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
+
+import com.example.jp.meco300.nfcfortune.R;
 
 import android.app.Activity;
 import android.content.Intent;

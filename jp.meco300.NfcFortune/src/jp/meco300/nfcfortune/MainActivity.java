@@ -1,6 +1,8 @@
-package com.example.jp.meco300.nfcfortune;
+package jp.meco300.nfcfortune;
 
 import java.io.UnsupportedEncodingException;
+
+import com.example.jp.meco300.nfcfortune.R;
 
 import android.net.Uri;
 import android.nfc.*;
